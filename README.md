@@ -1,12 +1,14 @@
-# 🎬 Simulador Nível 7 - API de Filmes
+# Simulador Nível 7 - API de Filmes
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 API REST desenvolvida com Node.js e Express para gerenciamento de um catálogo de filmes.  
 Os dados são armazenados em memória, com operações completas de CRUD (Create, Read, Update, Delete).
 
+- projeto desenvolvido para fins educacionais
+
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 - Node.js
 - Express
 - Yarn
@@ -14,7 +16,7 @@ Os dados são armazenados em memória, com operações completas de CRUD (Create
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 src/
   controllers/
   routes/
